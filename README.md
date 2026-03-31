@@ -106,8 +106,9 @@ git clone https://github.com/praveena-ml/car-price-prediction.git
 cd car-price-prediction
 ```
 2️⃣ Install dependencies
+```
 pip install -r requirements.txt
-
+```
 3️⃣ Run the Streamlit app
 streamlit run app.py
 ---
