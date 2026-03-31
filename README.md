@@ -101,7 +101,6 @@ A simple and interactive web application was built using Streamlit for real-time
  🚀 How to Run the Project
  
  1️⃣ Clone the repository
-```bash
 git clone <repository-url>
 cd car-price-prediction
 ---
