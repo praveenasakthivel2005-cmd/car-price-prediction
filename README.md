@@ -104,13 +104,14 @@ A simple and interactive web application was built using Streamlit for real-time
 ```bash
 git clone https://github.com/praveena-ml/car-price-prediction.git
 cd car-price-prediction
-```bash
+
 2️⃣ Install dependencies
+```bash
 pip install -r requirements.txt
-```bash
+
 3️⃣ Run the Streamlit app
-streamlit run app.py
 ```bash
+streamlit run app.py
 ---
 
 ⚠️ Disclaimer
