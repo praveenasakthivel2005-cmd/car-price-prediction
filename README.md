@@ -104,8 +104,7 @@ A simple and interactive web application was built using Streamlit for real-time
 ```bash
 git clone https://github.com/praveena-ml/car-price-prediction.git
 cd car-price-prediction
-```md
-
+```
 2️⃣ Install dependencies
 pip install -r requirements.txt
 
