@@ -104,10 +104,10 @@ A simple and interactive web application was built using Streamlit for real-time
 ```bash
 git clone <repository-url>
 cd car-price-prediction
-
+---
 2️⃣ Install dependencies
 pip install -r requirements.txt
-
+---
 3️⃣ Run the Streamlit app
 streamlit run app.py
 
