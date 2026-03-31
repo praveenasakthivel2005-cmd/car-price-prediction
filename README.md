@@ -110,7 +110,9 @@ cd car-price-prediction
 pip install -r requirements.txt
 ```
 3️⃣ Run the Streamlit app
+```
 streamlit run app.py
+```
 ---
 
 ⚠️ Disclaimer
