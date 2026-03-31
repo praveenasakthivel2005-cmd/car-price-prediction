@@ -99,12 +99,15 @@ A simple and interactive web application was built using Streamlit for real-time
 ---
 
  🚀 How to Run the Project
- 
- 1️⃣ Clone the repository
- 
- git clone <repository-url>
- cd car-price-prediction
 
+1️⃣ Clone the repository  
+```bash
+git clone https://github.com/praveena-ml/car-price-prediction.git
+cd car-price-prediction
+
+
+ 
+ 
 2️⃣ Install dependencies
 pip install -r requirements.txt
 
